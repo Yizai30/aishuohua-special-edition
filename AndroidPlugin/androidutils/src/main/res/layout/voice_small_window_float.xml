@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/speak_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/bg_blue_trans_stroke_voice"
+            android:paddingLeft="25dp"
+            android:paddingTop="20dp"
+            android:paddingRight="25dp"
+            android:paddingBottom="20dp"
+            android:textColor="#000000"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</RelativeLayout>

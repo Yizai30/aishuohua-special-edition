@@ -1,0 +1,38 @@
+{
+  "keyFrames": 
+  [
+    {
+      "action": "0",
+      "type": "3",
+      "name": "realDuck",
+      "goname": "realDuck0",
+      "timestamp": "0",
+      "startpos": [ -4, 0.0, -6 ],
+      "endpos": [ -4, 0.0, -6 ],
+      "startrotation": [ "0", "0", "0" ],
+      "endrotation": [ "0", "0", "0" ],
+      "startscale": [ 1, 1, 1 ],
+      "endscale": [ 1, 1, 1 ],
+      "duration": "0",
+      "content": "",
+      "loop": "0"
+    },
+    {
+      "action": "2",
+      "type": "3",
+      "name": "realDuck",
+      "goname": "realDuck0",
+      "timestamp": "1",
+      "startpos": [ -4, 0.0, -6 ],
+      "endpos": [ -4, 0.0, 0 ],
+      "startrotation": [ "0", "0", "0" ],
+      "endrotation": [ "0", "0", "0" ],
+      "startscale": [ 1, 1, 1 ],
+      "endscale": [ 1, 1, 1 ],
+      "duration": "10",
+      "content": "realDuckWalk",
+      "loop": "0"
+    }
+    
+    
+  ]}

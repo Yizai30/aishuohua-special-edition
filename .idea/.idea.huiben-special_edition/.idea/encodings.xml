@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/CreateMat/ActorDrawManager.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/CreateMat/CreateAnim.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/CreateMat/Drawable.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/CreateMat/SceneMatInfo.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/CreateMat/SceneMsg.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/CreateMat/UserBkgPointGenerator.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/CreateMat/UserMatManager.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/PreSetting/PublicMatGenerator.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/SceneCreateStory.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/TellStory/Extractor/NlpServer.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/TellStory/Planner/AttachPlanner.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/TellStory/Planner/DeAttachPlanner.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/TellStory/Planner/FrameFactoryFollow.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/TellStory/Planner/ObjectStateChanger.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/TellStory/Planner/PosUpdater.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/TellStory/Test/TestAMR.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/UniGif/PlayableGif.cs" charset="GBK" />
+  </component>
+</project>

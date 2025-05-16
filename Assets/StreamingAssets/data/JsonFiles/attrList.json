@@ -1,0 +1,88 @@
+[
+    {
+      "attrType": "scale",
+      "attrNameList": [ "大" ],
+      "attrValue": [ 1.5, 1.5, 1.5 ]
+    },
+    {
+      "attrType": "scale",
+      "attrNameList": [ "小" ],
+      "attrValue": [ 0.5, 0.5, 0.5 ]
+    },
+    {
+      "attrType": "scale",
+      "attrNameList": [ "高" ],
+      "attrValue": [ 1, 1.5, 1 ]
+    },
+    {
+      "attrType": "scale",
+      "attrNameList": [ "矮" ],
+      "attrValue": [ 1, 0.5, 1 ]
+    },
+    {
+      "attrType": "scale",
+      "attrNameList": [ "胖" ],
+      "attrValue": [ 1.5, 1, 1 ]
+    },
+    {
+      "attrType": "scale",
+      "attrNameList": [ "瘦" ],
+      "attrValue": [ 0.5, 1, 1 ]
+    },
+    {
+      "attrType": "color",
+      "attrNameList": [ "红" ],
+      "attrValue": [ 1, 0, 0 ]
+    },
+    {
+      "attrType": "color",
+      "attrNameList": [ "绿" ],
+      "attrValue": [ 0, 1, 0 ]
+    },
+    {
+      "attrType": "color",
+      "attrNameList": [ "蓝" ],
+      "attrValue": [ 0, 0, 1 ]
+    },
+    {
+      "attrType": "color",
+      "attrNameList": [ "黄" ],
+      "attrValue": [ 1, 1, 0 ]
+    },
+    {
+      "attrType": "color",
+      "attrNameList": [ "白" ],
+      "attrValue": [ 1, 1, 1 ]
+    },
+    {
+      "attrType": "color",
+      "attrNameList": [ "黑" ],
+      "attrValue": [ 0, 0, 0 ]
+    },
+    {
+      "attrType": "color",
+      "attrNameList": [ "灰" ],
+      "attrValue": [ 0.4, 0.4, 0.4 ]
+    },
+    {
+      "attrType": "color",
+      "attrNameList": [ "青" ],
+      "attrValue": [ 0, 1, 1 ]
+    },
+    {
+      "attrType": "color",
+      "attrNameList": [ "紫" ],
+      "attrValue": [ 0.627, 0.125, 0.941 ]
+    },
+    {
+      "attrType": "color",
+      "attrNameList": [ "橙" ],
+      "attrValue": [ 1, 0.38, 0 ]
+    },
+
+    {
+      "attrType": "recover",
+      "attrNameList": [ "正常", "回", "原样" ],
+      "attrValue": [ 0, 0, 0 ]
+    }
+]

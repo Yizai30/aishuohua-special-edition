@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7978b11ffe7ffa84da54ab2037f64377, type: 3}
+  m_Name: db_turtle_Data
+  m_EditorClassIdentifier: 
+  dataName: db_turtle
+  dragonBonesJSON: {fileID: 4900000, guid: 7d3c1913cdf800647838b6eecbcc7321, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: b4557912c102a1842bca353fe6299bbb, type: 3}
+    texture: {fileID: 2800000, guid: 3472aa00af99eb94fba6aae8e5895b13, type: 3}
+    material: {fileID: 2100000, guid: a5370b38057637047bbfc00b24dff5a5, type: 2}
+    uiMaterial: {fileID: 0}

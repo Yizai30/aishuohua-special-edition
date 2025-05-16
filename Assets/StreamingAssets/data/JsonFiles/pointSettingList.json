@@ -1,0 +1,169 @@
+[
+    {
+      "actionFlags": [ "离开", "走了", "飞走", "游走", "跑走", "跑了" ],
+      "locationFlags": [ "出口", "终点" ],
+      "pointType": "exitPoint"
+    },
+    {
+      "actionFlags": [ "逃", "逃跑", "逃走", "吓跑", "吓走" ],
+      "locationFlags": [],
+      "pointType": "escapePoint"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [ "桌", "桌子", "桌上", "桌子上" ],
+      "pointType": "tableOnPoint"
+    },
+    {
+      "actionFlags": [ "过河", "过了河" ],
+      "locationFlags": [],
+      "pointType": "bridgeExit"
+    },
+    {
+      "actionFlags": [ "采蜜" ],
+      "locationFlags": [ "花丛中", "花丛里", "花丛", "花上" ],
+      "pointType": "flowerPoint"
+    },
+    {
+      "actionFlags": [ "飞", "飞来飞去", "飞来", "飞到", "飞进", "飞了过来", "飞过来" ],
+      "locationFlags": [ "天空中", "空中", "天上", "上空", "上方", "天空" ],
+      "pointType": "skyPoint"
+    },
+
+    {
+      "actionFlags": [ "游泳", "游", "游了过来", "游过来", "游来游去" ],
+      "locationFlags": [ "水里", "水中" ],
+      "pointType": "waterPoint"
+    },
+    {
+      "actionFlags": [ "游泳", "游", "游了过来", "游过来", "游来游去" ],
+      "locationFlags": [ "河里" ],
+      "pointType": "river_waterPoint"
+    },
+    {
+      "actionFlags": [ "上岸" ],
+      "locationFlags": [ "河边", "岸上", "岸边" ],
+      "pointType": "river_groundPoint"
+    },
+    {
+      "actionFlags": [ "游泳", "游", "游了过来", "游过来", "游来游去" ],
+      "locationFlags": [ "池塘里", "池塘中" ],
+      "pointType": "pond_waterPoint"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [ "池塘边", "池塘旁" ],
+      "pointType": "pond_groundPoint"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [],
+      "pointType": "propPoint"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [ "地上", "地面", "地板" ],
+      "pointType": "defaultPoint"
+    },
+
+    {
+      "actionFlags": [],
+      "locationFlags": [ "起点", "入口", "出发点" ],
+      "pointType": "ground_enterPoint"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [],
+      "pointType": "sky_enterPoint"
+    },
+
+    {
+      "actionFlags": [],
+      "locationFlags": [],
+      "pointType": "water_enterPoint"
+    },
+
+    {
+      "actionFlags": [],
+      "locationFlags": [ "椅子", "凳子", "板凳" ],
+      "pointType": "chair_point"
+    },
+    {
+      "actionFlags": [ "上船", "进船" ],
+      "locationFlags": [ "船上", "船里", "船内", "船中" ],
+      "pointType": "overBoatPoint"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [ "树桩" ],
+      "pointType": "tree_stub"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [ "洞穴深处", "山洞深处" ],
+      "pointType": "cave_inside"
+    },
+    {
+      "actionFlags": [ "上台", "表演" ],
+      "locationFlags": [ "舞台" ],
+      "pointType": "stagePoint"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [],
+      "pointType": "bridgeSide"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [],
+      "pointType": "bridgeGate"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [ "桥上" ],
+      "pointType": "onBridge"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [ "门口" ],
+      "pointType": "houseGate"
+    },
+
+    {
+      "actionFlags": [ "测量体重", "测体重", "量体重", "称体重" ],
+      "locationFlags": [ "体重秤", "体重称" ],
+      "pointType": "weightScalePoint"
+    },
+    {
+      "actionFlags": [ "测量身高", "测身高", "量身高" ],
+      "locationFlags": [ "身高秤", "身高称" ],
+      "pointType": "heightScalePoint"
+    },
+    {
+      "actionFlags": [ "看病", "看医生", "报案", "报警" ],
+      "locationFlags": [ "桌子旁", "桌子边" ],
+      "pointType": "tableSidePoint"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [ "药柜旁", "柜子旁", "药柜边", "柜子边" ],
+      "pointType": "cupboardSidePoint"
+    },
+
+    {
+      "actionFlags": [ "看书", "借书", "读书" ],
+      "locationFlags": [ "书柜旁", "书柜边" ],
+      "pointType": "bookcaseSidePoint"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [ "鸟巢","鸟窝" ],
+      "pointType": "nestInPoint"
+    },
+    {
+      "actionFlags": [],
+      "locationFlags": [ "黑板" ],
+      "pointType": "blackboardDownPoint"
+    }
+
+]

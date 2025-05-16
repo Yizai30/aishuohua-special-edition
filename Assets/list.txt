@@ -1,0 +1,2 @@
+file 'Scripts/TellStory/audio/3.wav'
+file 'Scripts/TellStory/audio/4.wav'

@@ -1,0 +1,18 @@
+{
+  "userMatInfoList": 
+  [
+    {
+      "creator": "testUser",
+      "rawName": "精灵",
+      "matName": "精灵_user",
+      "url": "/UserMat/精灵_user",
+      "className": "Actor"
+    },
+    {
+      "creator": "testUser",
+      "rawName": "悟空",
+      "matName": "悟空_user",
+      "url": "/UserMat/悟空_user",
+      "className": "Actor"
+    }
+  ]}

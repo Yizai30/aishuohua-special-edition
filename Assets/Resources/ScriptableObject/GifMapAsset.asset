@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2359eab53956684c9a531d91795a2c6, type: 3}
+  m_Name: GifMapAsset
+  m_EditorClassIdentifier: 
+  GifMapList:
+  - {fileID: 11400000, guid: e4244ea642edbe94d970b77e05a11dd1, type: 2}
+  - {fileID: 11400000, guid: 0982cc9a69d7a9148ad20b7f42855264, type: 2}
+  - {fileID: 11400000, guid: 7694748a113f9d9459d9cfb7c271cb66, type: 2}
+  - {fileID: 11400000, guid: 17fd3a7648900eb419ef53346cead059, type: 2}
+  - {fileID: 11400000, guid: a2dd9502ffbdc6a448a5577a650cdbdf, type: 2}
+  - {fileID: 11400000, guid: 2e763446e2b907e45be0b242cc7855d0, type: 2}
+  - {fileID: 11400000, guid: 336933d645d872549bf98e4f9b628886, type: 2}
+  - {fileID: 11400000, guid: b3e4e386dbd014740ac01826c87722f7, type: 2}
+  - {fileID: 11400000, guid: 4d3d34fe9a7546a4cb55e44687bb188a, type: 2}

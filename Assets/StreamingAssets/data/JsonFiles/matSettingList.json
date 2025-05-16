@@ -1,0 +1,911 @@
+[
+    {
+      "speed": 1.0,
+      "matName": "db_boy",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.051807,
+      "height": 1.906634
+    },
+    {
+      "speed": 1.0,
+      "matName": "db_girl",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.103615,
+      "height": 1.803019
+    },
+    {
+      "speed": 1.0,
+      "matName": "db_father",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.129519,
+      "height": 3.150017
+    },
+    {
+      "speed": 1.0,
+      "matName": "db_mother",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.414461,
+      "height": 3.072306
+    },
+    {
+      "speed": 1.0,
+      "matName": "db_grandpa",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "db_grandma",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "db_rabbit",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "db_elf",
+      "initScale": [ -104.0, 104.0, 104.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "sky" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "db_bookManager",
+      "initScale": [ -64.0, 64.0, 64.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "db_police",
+      "initScale": [ -72.0, 72.0, 72.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "db_teacher",
+      "initScale": [ -72.0, 72.0, 72.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "db_doctor",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "dog",
+      "initScale": [ 80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "rabbit",
+      "initScale": [ -64.0, 64.0, 64.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteDeer3D",
+      "initScale": [ 880.0, 880.0, 880.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteTiger3D",
+      "initScale": [ 640.0, 640.0, 640.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Apple",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Banana",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Pear",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Grapes",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Green apple",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Carrot",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Corn",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Eggplant",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Pepper",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Lemon",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Mango",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Pineapple",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Tangerine",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Watermelon",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Cherry",
+      "initScale": [ 8.0, 8.0, 8.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Cucumber",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Onion",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Orange",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Pitahaya",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Tomato",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Flower",
+      "initScale": [ 40.0, 40.0, 40.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Flower_hand",
+      "initScale": [ 40.0, 40.0, 40.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Cake",
+      "initScale": [ 40.0, 40.0, 40.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Bumble3D",
+      "initScale": [ 56.0, 56.0, 56.0 ],
+      "initRotation": [ 0.0, 130.0, 0.0 ],
+      "classList": [ "character", "sky" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Butterfly3D",
+      "initScale": [ 88.0, 88.0, 88.0 ],
+      "initRotation": [ 0.0, 130.0, 0.0 ],
+      "classList": [ "character", "sky" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Alpaca",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Alpaca baby",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Bull",
+      "initScale": [ -96.0, 96.0, 96.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Bull baby",
+      "initScale": [ -96.0, 96.0, 96.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Chicken baby",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "ChickenA",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "ChickenB",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Cow",
+      "initScale": [ -96.0, 96.0, 96.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Cow baby",
+      "initScale": [ -96.0, 96.0, 96.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Duck baby",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "DuckA",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "DuckB",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Goat",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Goat baby",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "PigA",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Pig babyA",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "PigB",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Pig babyB",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "PigC",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Pig babyC",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Sheep",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Sheep baby",
+      "initScale": [ -80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteBear3D",
+      "initScale": [ 560.0, 560.0, 560.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteChipmunk3D",
+      "initScale": [ 800.0, 800.0, 800.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteElephant3D",
+      "initScale": [ 560.0, 560.0, 560.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteFox3D",
+      "initScale": [ 400.0, 400.0, 400.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteHorse3D",
+      "initScale": [ 720.0, 720.0, 720.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteLion3D",
+      "initScale": [ 800.0, 800.0, 800.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteMonkey3D",
+      "initScale": [ 480.0, 480.0, 480.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteTurtle3D",
+      "initScale": [ 400.0, 400.0, 400.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "water" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteGiraffe3D",
+      "initScale": [ 960.0, 960.0, 960.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteFlamingo3D",
+      "initScale": [ 400.0, 400.0, 400.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cutePeacock3D",
+      "initScale": [ 80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteDog3D",
+      "initScale": [ 400.0, 400.0, 400.0 ],
+      "initRotation": [ 0.0, 150.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "cuteCat3D",
+      "initScale": [ 400.0, 400.0, 400.0 ],
+      "initRotation": [ 0.0, 150.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Eagle3D",
+      "initScale": [ 80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 150.0, 0.0 ],
+      "classList": [ "character", "sky" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Swallow3D",
+      "initScale": [ 32.0, 32.0, 32.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "sky" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Penguin3D",
+      "initScale": [ 56.0, 56.0, 56.0 ],
+      "initRotation": [ 0.0, 150.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Parrot3D",
+      "initScale": [ 40.0, 40.0, 40.0 ],
+      "initRotation": [ 0.0, 150.0, 0.0 ],
+      "classList": [ "character", "sky" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Arowana3D",
+      "initScale": [ 32.0, 32.0, 32.0 ],
+      "initRotation": [ 0.0, 120.0, 0.0 ],
+      "classList": [ "character", "water" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Goose3D",
+      "initScale": [ 32.0, 32.0, 32.0 ],
+      "initRotation": [ 0.0, 130.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "DuckBlack3D",
+      "initScale": [ 32.0, 32.0, 32.0 ],
+      "initRotation": [ 0.0, 130.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "DuckWhite3D",
+      "initScale": [ 32.0, 32.0, 32.0 ],
+      "initRotation": [ 0.0, 130.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "DuckYellow3D",
+      "initScale": [ 32.0, 32.0, 32.0 ],
+      "initRotation": [ 0.0, 130.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Balloon",
+      "initScale": [ 48.0, 48.0, 48.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "env_prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Balloons",
+      "initScale": [ 16.0, 16.0, 16.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "env_prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Sun",
+      "initScale": [ 32.0, 32.0, 32.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "env_prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Vat",
+      "initScale": [ 40.0, 40.0, 40.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "env_prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Boat",
+      "initScale": [ 32.0, 32.0, 32.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "env_prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "MedicineBottle",
+      "initScale": [ 80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Preball",
+      "initScale": [ 80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 0.0,
+      "matName": "Pumpkin",
+      "initScale": [ 56.0, 56.0, 56.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "MagicBroom",
+      "initScale": [ 40.0, 40.0, 40.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "character", "ground" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Book",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "Present",
+      "initScale": [ 40.0, 40.0, 40.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "BirthdayHat",
+      "initScale": [ 80.0, 80.0, 80.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "ChoCake",
+      "initScale": [ 48.0, 48.0, 48.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "StrawCake",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "WhiteHat",
+      "initScale": [ 20.0, 20.0, 20.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    },
+    {
+      "speed": 1.0,
+      "matName": "ColorBar",
+      "initScale": [ 48.0, 48.0, 48.0 ],
+      "initRotation": [ 0.0, 0.0, 0.0 ],
+      "classList": [ "prop" ],
+      "width": 1.0,
+      "height": 1.0
+    }
+  ]

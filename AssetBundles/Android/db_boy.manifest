@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 4109802192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ce8281a918e90e367762897bb602a0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 25c0c921084a62be9a1271a8c858caa3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7978b11ffe7ffa84da54ab2037f64377, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0edf2f601f9654b448d02ba7e5e63e46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b06277ac037e90479dc9c85fd351391, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: DragonBones.UnityDragonBonesData/TextureAtlas
+Assets:
+- "Assets/Resources/Character/2D/db_boy/Preview/\u5C4F\u5E55\u622A\u56FE 2022-10-20
+  213815.png"
+- Assets/Resources/Character/2D/db_boy/Model/db_boy_ske.json
+- Assets/Resources/Character/2D/db_boy/Prefab/db_boy.prefab
+- Assets/Resources/Character/2D/db_boy/Model/db_boy_Data.asset
+- Assets/Resources/Character/2D/db_boy/Preview/db_boy.png
+- Assets/Resources/Character/2D/db_boy/Model/db_boy_tex.json
+- Assets/Resources/Character/2D/db_boy/Model/db_boy_tex.png
+- Assets/Resources/Character/2D/db_boy/Model/db_boy_tex_Mat.mat
+Dependencies: []

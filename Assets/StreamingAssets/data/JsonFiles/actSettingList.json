@@ -1,0 +1,878 @@
+[
+    {
+      "actName": "db_default",
+      "actType": "single_static"
+    },
+    {
+      "actName": "db_fly",
+      "actType": "single_static"
+    },
+    {
+      "actName": "db_run",
+      "actType": "single_static"
+    },
+    {
+      "actName": "db_inspect",
+      "actType": "single_static"
+    },
+    {
+      "actName": "db_teach",
+      "actType": "single_static"
+    },
+    {
+      "actName": "db_giveMedicine",
+      "actType": "single_static"
+    },
+    {
+      "actName": "db_giveBook",
+      "actType": "single_static"
+    },
+    {
+      "actName": "db_speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "db_walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "db_eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "db_jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "rabbit walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "rabbit eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "rabbit speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "rabbit jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Alpaca eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Alpaca idle",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Alpaca jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Alpaca sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Alpaca walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Alpaca baby eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Alpaca baby idle",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Alpaca baby jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Alpaca baby sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Alpaca baby walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Bull eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Bull idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Bull jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Bull sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Bull walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Bull baby eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Bull baby idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Bull baby jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Bull baby sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Bull baby walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Chicken baby eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Chicken baby idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Chicken baby jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Chicken baby sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Chicken baby walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Chicken1 eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Chicken1 idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Chicken1 jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Chicken1 sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Chicken1 walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Chicken2 eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Chicken2 idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Chicken2 jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Chicken2 sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Chicken2 walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Cow eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Cow idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Cow jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Cow sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Cow walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Cow baby eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Cow baby idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Cow baby jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Cow baby sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Cow baby walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Duck baby eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Duck baby idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Duck baby jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Duck baby sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Duck baby walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Duck1 eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Duck1 idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Duck1 jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Duck1 sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Duck1 walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Duck2 eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Duck2 idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Duck2 jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Duck2 sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Duck2 walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Goat eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Goat idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Goat jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Goat sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Goat walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Goat baby eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Goat baby idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Goat baby jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Goat baby sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Goat baby walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Pig baby1 eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Pig baby1 idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Pig baby1 jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Pig baby1 sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Pig baby1 walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Pig baby2 eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Pig baby2 idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Pig baby2 jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Pig baby2 sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Pig baby2 walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Pig baby3 eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Pig baby3 idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Pig baby3 jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Pig baby3 sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Pig baby3 walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Pig1 eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Pig1 idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Pig1 jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Pig1 sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Pig1 walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Pig2 eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Pig2 idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Pig2 jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Pig2 sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Pig2 walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Pig3 eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Pig3 idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Pig3 jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Pig3 sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Pig3 walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Sheep eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Sheep idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Sheep jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Sheep sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Sheep walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Sheep baby eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Sheep baby idle",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Sheep baby jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Sheep baby sleep",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Sheep baby walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_TypeA_Eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_TypeA_Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_TypeA_Jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_TypeA_Rest",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_TypeA_Walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_TypeA_Run",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_TypeB_Eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_TypeB_Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_TypeB_Jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_TypeB_Rest",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_TypeB_Walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_TypeB_Run",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_Monkey_Eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_Monkey_Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_Monkey_Jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_Monkey_Rest",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_Monkey_Walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_Monkey_Run",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_Turtle_Eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_Turtle_Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_Turtle_Jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_Turtle_Rest",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_Turtle_Walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_Turtle_Swim",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_Turtle_Run",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_Squirrel_Eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_Squirrel_speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_Squirrel_Jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_Squirrel_Rest",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_Squirrel_Move",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_Squirrel_Run",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_Flamingo_Eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_Flamingo_Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_Flamingo_Jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_Flamingo_Rest",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_Flamingo_Walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_Flamingo_Run",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_Peacock_Eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_Peacock_Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_Peacock_Jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_Peacock_Rest",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_Peacock_Walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "cuteAnimal_Peacock_Run",
+      "actType": "movable"
+    },
+    {
+      "actName": "flower open",
+      "actType": "single_static"
+    },
+    {
+      "actName": "flower close",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Bumble@Fly caimi",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Bumble@Die",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Bumble@Turn Left",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Bumble@Turn Right",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Bumble@Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Bumble@Fly Forward In Place",
+      "actType": "movable"
+    },
+    {
+      "actName": "Bumble@Jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Butterfly@Die",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Butterfly@Fly Forward In Place",
+      "actType": "movable"
+    },
+    {
+      "actName": "Butterfly@Turn Left",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Butterfly@Turn Right",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Butterfly@Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Butterfly@Underground",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Butterfly@Look Around",
+      "actType": "single_static"
+    },
+    {
+      "actName": "cuteAnimal_TypeB_Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "cuteAnimal_TypeB_Walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Eagle_Walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Eagle_Run",
+      "actType": "movable"
+    },
+    {
+      "actName": "Eagle_Jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Eagle_Stunned",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Eagle_Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Swallow_Walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Swallow_Fly",
+      "actType": "movable"
+    },
+    {
+      "actName": "Swallow_Eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Swallow_Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Penguin_Walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Penguin_Fly",
+      "actType": "movable"
+    },
+    {
+      "actName": "Penguin_Spin",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Penguin_Jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Penguin_Eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Penguin_Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Parrot_Walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Parrot_Fly",
+      "actType": "movable"
+    },
+    {
+      "actName": "Parrot_Spin",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Parrot_Jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Parrot_Eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Parrot_Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Arowana_Walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Arowana_Swim",
+      "actType": "movable"
+    },
+    {
+      "actName": "Arowana_Splash",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Arowana_Jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Arowana_Eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Arowana_Speak",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Goose_Walk",
+      "actType": "movable"
+    },
+    {
+      "actName": "Goose_Fly",
+      "actType": "movable"
+    },
+    {
+      "actName": "Goose_Spin",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Goose_Jump",
+      "actType": "single_static"
+    },
+    {
+      "actName": "Goose_Eat",
+      "actType": "couple_static"
+    },
+    {
+      "actName": "Goose_Speak",
+      "actType": "couple_static"
+    }
+  ]

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Sheep Sprite Library Asset
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: All
+    m_Hash: 55916349
+    m_CategoryList:
+    - m_Name: Body
+      m_Hash: 2073732236
+      m_Sprite: {fileID: 21300000, guid: af74f18c48bfbe040b69f9c2a2f3ed82, type: 3}
+    - m_Name: Cheek
+      m_Hash: -1424677743
+      m_Sprite: {fileID: 21300000, guid: 31bf1aa3669e8d84b9eead432c882221, type: 3}
+    - m_Name: Ear1
+      m_Hash: -2008232630
+      m_Sprite: {fileID: 21300000, guid: 8d22cca1f7fcab347b2c75093ef9e60a, type: 3}
+    - m_Name: Ear2
+      m_Hash: 289774832
+      m_Sprite: {fileID: 21300000, guid: e8458f5ad7186a04cb717032c4b22888, type: 3}
+    - m_Name: Eye
+      m_Hash: 1245036881
+      m_Sprite: {fileID: 21300000, guid: 9d466473e53f69041b702f1d400db7c5, type: 3}
+    - m_Name: Face
+      m_Hash: -1524181927
+      m_Sprite: {fileID: 21300000, guid: 4c5a85143ad2f6d4e9c022cbc98e4146, type: 3}
+    - m_Name: Hair back
+      m_Hash: 1250787655
+      m_Sprite: {fileID: 21300000, guid: 1eff1f3103e3ff749a78feb55788dcc4, type: 3}
+    - m_Name: Hair
+      m_Hash: 1019596327
+      m_Sprite: {fileID: 21300000, guid: 4bd99c1c5761a5649a6c24a11457db79, type: 3}
+    - m_Name: Horn1
+      m_Hash: 808581613
+      m_Sprite: {fileID: 21300000, guid: 5581aa06262e4684296ce68391279ce5, type: 3}
+    - m_Name: Horn2
+      m_Hash: -1455904681
+      m_Sprite: {fileID: 21300000, guid: 18655c2843feca24794a0aac7a93976a, type: 3}
+    - m_Name: Leg1
+      m_Hash: -973550584
+      m_Sprite: {fileID: 21300000, guid: 67d04e5c490374245bbaabba3193134d, type: 3}
+    - m_Name: Leg2
+      m_Hash: 1559338418
+      m_Sprite: {fileID: 21300000, guid: d280642b5de7cf54bb95b788dcfb77a0, type: 3}
+    - m_Name: Leg3
+      m_Hash: 737586468
+      m_Sprite: {fileID: 21300000, guid: e09d3f4fcd5769f43b2dc8b35799bc75, type: 3}
+    - m_Name: Mouth
+      m_Hash: 1594127251
+      m_Sprite: {fileID: 21300000, guid: 0572e2d1583394c4ebab16ec00cc31f1, type: 3}

@@ -1,0 +1,150 @@
+{
+  "id": "0",
+  "input": "小鸟 看见 地上 有 一个 苹果 飞过去 把 苹果 吃了",
+  "nodes": [
+    {
+      "id": 0,
+      "label": "小鸟",
+      "anchors": [
+        {
+          "from": 0,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "label": "看见-01",
+      "anchors": [
+        {
+          "from": 3,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "label": "地上",
+      "anchors": [
+        {
+          "from": 6,
+          "to": 8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "有-03",
+      "anchors": [
+        {
+          "from": 9,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "个",
+      "anchors": [
+        {
+          "from": 11,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "label": "苹果",
+      "anchors": [
+        {
+          "from": 14,
+          "to": 16
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "label": "temporal",
+      "anchors": []
+    },
+    {
+      "id": 7,
+      "label": "飞过去",
+      "anchors": [
+        {
+          "from": 17,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "label": "苹果",
+      "anchors": [
+        {
+          "from": 23,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "label": "吃了-01",
+      "anchors": [
+        {
+          "from": 26,
+          "to": 28
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": 1,
+      "target": 0,
+      "label": "arg0"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "label": "arg1"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "label": "cunit"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "label": "arg1"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "label": "arg0"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "label": "arg1"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "label": "arg1"
+    },
+    {
+      "source": 9,
+      "target": 0,
+      "label": "arg0"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "label": "arg2"
+    }
+  ],
+  "tops": [ 6 ],
+  "framework": "amr"
+}

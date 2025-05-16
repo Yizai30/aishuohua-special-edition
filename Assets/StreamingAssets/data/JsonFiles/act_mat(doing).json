@@ -1,0 +1,259 @@
+[
+
+  {
+    "id": "0",
+    "input": "青蛙 马 上 来到 了 森林里",
+    "nodes": [
+      {
+        "id": 0,
+        "label": "青蛙",
+        "anchors": [
+          {
+            "from": 0,
+            "to": 2
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "label": "马上",
+        "anchors": [
+          {
+            "from": 3,
+            "to": 4
+          },
+          {
+            "from": 5,
+            "to": 6
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "label": "上",
+        "anchors": [
+          {
+            "from": 5,
+            "to": 6
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "label": "来到-01",
+        "anchors": [
+          {
+            "from": 7,
+            "to": 9
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "label": "了",
+        "anchors": [
+          {
+            "from": 10,
+            "to": 11
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "label": "森林里",
+        "anchors": []
+      }
+    ],
+    "edges": [
+      {
+        "source": 3,
+        "target": 5,
+        "label": "arg1"
+      },
+      {
+        "source": 3,
+        "target": 0,
+        "label": "arg0"
+      },
+      {
+        "source": 3,
+        "target": 4,
+        "label": "aspect"
+      },
+      {
+        "source": 3,
+        "target": 2,
+        "label": "time"
+      },
+      {
+        "source": 1,
+        "target": 3,
+        "label": "domain"
+      }
+    ],
+    "tops": [ 3 ],
+    "framework": "amr"
+  },
+  {
+    "id": "0",
+    "input": "小鸟 看见 地上 有 一个 苹果 飞 过去 把 苹果 吃了",
+    "nodes": [
+      {
+        "id": 0,
+        "label": "小鸟",
+        "anchors": [
+          {
+            "from": 0,
+            "to": 2
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "label": "看见-01",
+        "anchors": [
+          {
+            "from": 3,
+            "to": 5
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "label": "地上",
+        "anchors": [
+          {
+            "from": 6,
+            "to": 8
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "label": "有-03",
+        "anchors": [
+          {
+            "from": 9,
+            "to": 10
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "label": "个",
+        "anchors": [
+          {
+            "from": 11,
+            "to": 13
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "label": "苹果",
+        "anchors": [
+          {
+            "from": 14,
+            "to": 16
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "label": "temporal",
+        "anchors": []
+      },
+      {
+        "id": 7,
+        "label": "temporal",
+        "anchors": []
+      },
+      {
+        "id": 8,
+        "label": "过去",
+        "anchors": [
+          {
+            "from": 19,
+            "to": 21
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "label": "苹果",
+        "anchors": [
+          {
+            "from": 24,
+            "to": 26
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "label": "吃了-01",
+        "anchors": [
+          {
+            "from": 27,
+            "to": 29
+          }
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "source": 1,
+        "target": 0,
+        "label": "arg0"
+      },
+      {
+        "source": 5,
+        "target": 4,
+        "label": "cunit"
+      },
+      {
+        "source": 1,
+        "target": 3,
+        "label": "arg1"
+      },
+      {
+        "source": 3,
+        "target": 2,
+        "label": "arg0"
+      },
+      {
+        "source": 3,
+        "target": 5,
+        "label": "arg1"
+      },
+      {
+        "source": 10,
+        "target": 9,
+        "label": "arg1"
+      },
+      {
+        "source": 10,
+        "target": 0,
+        "label": "arg0"
+      },
+      {
+        "source": 6,
+        "target": 1,
+        "label": "arg1"
+      },
+      {
+        "source": 6,
+        "target": 7,
+        "label": "op2"
+      },
+      {
+        "source": 7,
+        "target": 1,
+        "label": "arg1"
+      }
+    ],
+    "tops": [ 6 ],
+    "framework": "amr"
+  }
+]
+
+

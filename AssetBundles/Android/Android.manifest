@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2654404967
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: db_boy
+      Dependencies: {}

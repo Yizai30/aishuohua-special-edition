@@ -1,0 +1,54 @@
+{
+  "keyFrames": [
+
+    {
+      "startrotation": [ 0.0, 180, 0.0 ],
+      "name": "Wizard",
+      "goname": "Wizard",
+      "startscale": [ 1, 1, 1 ],
+      "timestamp": 0.0,
+      "endrotation": [ 0.0, 180, 0.0 ],
+      "content": "",
+      "action": 0,
+      "endscale": [ 1, 1, 1 ],
+      "endpos": [ 6, 2, 4 ],
+      "duration": 1.0,
+      "startpos": [ 6, 2, 4 ],
+      "type": 3,
+      "loop": 0
+    },
+
+    {
+      "startrotation": [ 0.0, 180, 0.0 ],
+      "name": "Wizard",
+      "goname": "Wizard",
+      "startscale": [ 1, 1, 1 ],
+      "timestamp": 1.0,
+      "endrotation": [ 0.0, 180, 0.0 ],
+      "content": "Wizard_Run",
+      "action": 2,
+      "endscale": [ 1, 1, 1 ],
+      "endpos": [ 0, 2, 4 ],
+      "duration": 10.0,
+      "startpos": [ 6, 2, 4 ],
+      "type": 3,
+      "loop": 0
+    },
+    {
+      "startrotation": [ 0.0, 180, 0.0 ],
+      "name": "Wizard",
+      "goname": "Wizard",
+      "startscale": [ 1, 1, 1 ],
+      "timestamp": 5.0,
+      "endrotation": [ 0.0, 180, 0.0 ],
+      "content": "Wizard_Run",
+      "action": 1,
+      "endscale": [ 1, 1, 1 ],
+      "endpos": [ 0, 2, 4 ],
+      "duration": 10.0,
+      "startpos": [ 6, 2, 4 ],
+      "type": 3,
+      "loop": 0
+    }
+
+  ]}

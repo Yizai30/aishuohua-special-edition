@@ -1,0 +1,610 @@
+[
+    {
+      "actType": "n_coupleStaticSee",
+      "defaultPlanner": "CoupleStaticActionPlanner",
+      "actRawNameList": [ "看", "看到", "盯着", "盯", "注视", "观察", "望着", "望", "看见", "转向", "碰到", "面对", "遇到", "遇见", "见到", "看着", "发现", "瞧见" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "short"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "actType": "n_coupleStaticFaceToFace",
+      "defaultPlanner": "CoupleStaticActionPlanner",
+      "actRawNameList": [ "迎面", "面对面" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "TurnToObject",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "short"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "actType": "n_coupleStaticSpeak",
+      "defaultPlanner": "CoupleStaticActionPlanner",
+      "actRawNameList": [ "说", "问道", "问", "说话", "喊", "喊道", "邀请", "请", "邀请", "打招呼", "问好", "交谈", "聊天", "交流" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "short"
+            },
+            {
+              "subAnimation": "说",
+              "subAtomMove": "Stay",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "2",
+              "duration": "long"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "actType": "n_coupleStaticEat",
+      "defaultPlanner": "CoupleStaticActionPlanner",
+      "actRawNameList": [ "吃掉", "吃", "吃了" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "short"
+            },
+            {
+              "subAnimation": "到",
+              "subAtomMove": "MoveToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "2",
+              "duration": "long"
+            },
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "3",
+              "duration": "short"
+            },
+            {
+              "subAnimation": "吃",
+              "subAtomMove": "Stay",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "Disappear",
+              "objPointFlag": "",
+              "seqNum": "4",
+              "duration": "long"
+            }
+          ]
+        }
+      ]
+    },
+
+
+    {
+      "actType": "n_coupleStaticDrink",
+      "defaultPlanner": "CoupleStaticActionPlanner",
+      "actRawNameList": [ "喝掉", "喝", "喝了" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "short"
+            },
+            {
+              "subAnimation": "到",
+              "subAtomMove": "MoveToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "2",
+              "duration": "long"
+            },
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "3",
+              "duration": "short"
+            },
+            {
+              "subAnimation": "吃",
+              "subAtomMove": "Stay",
+              "subPointFlag": "",
+              "objAnimation": "喝",
+              "objAtomMove": "Stay",
+              "objPointFlag": "",
+              "seqNum": "4",
+              "duration": "long"
+            }
+          ]
+        }
+      ]
+    },
+
+
+    {
+      "actType": "n_coupleStaticDrink",
+      "defaultPlanner": "CoupleStaticActionPlanner",
+      "actRawNameList": [ "翻开", "打开" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "short"
+            },
+            {
+              "subAnimation": "到",
+              "subAtomMove": "MoveToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "2",
+              "duration": "long"
+            },
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "3",
+              "duration": "short"
+            },
+            {
+              "subAnimation": "说",
+              "subAtomMove": "Stay",
+              "subPointFlag": "",
+              "objAnimation": "打开",
+              "objAtomMove": "Stay",
+              "objPointFlag": "",
+              "seqNum": "4",
+              "duration": "long"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "actType": "n_coupleStaticDrink",
+      "defaultPlanner": "CoupleStaticActionPlanner",
+      "actRawNameList": [ "合上", "关上" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "short"
+            },
+            {
+              "subAnimation": "到",
+              "subAtomMove": "MoveToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "2",
+              "duration": "long"
+            },
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnToObject",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "3",
+              "duration": "short"
+            },
+            {
+              "subAnimation": "说",
+              "subAtomMove": "Stay",
+              "subPointFlag": "",
+              "objAnimation": "合上",
+              "objAtomMove": "Stay",
+              "objPointFlag": "",
+              "seqNum": "4",
+              "duration": "long"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+
+      "actType": "n_singleMoveToRegion",
+      "defaultPlanner": "SingleMoveActionPlanner",
+      "actRawNameList": [ "称体重", "测量体重", "测体重", "量体重", "测量身高", "测身高", "量身高", "看病", "看医生", "看书", "借书", "读书", "报案", "报警", "落", "落到", "落在", "掉", "掉到", "掉在", "坐", "坐到", "坐在", "坐上" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnToRegion",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "short"
+            },
+            {
+              "subAnimation": "到",
+              "subAtomMove": "MoveToRegion",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "2",
+              "duration": "long"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "actType": "n_singleStaticTurnback",
+      "defaultPlanner": "SingleStaticActionPlanner",
+      "actRawNameList": [ "转头", "调转", "转身", "转过头", "掉头" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnBack",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "pointFlag": "",
+              "seqNum": "1",
+              "duration": "short"
+            }
+          ]
+
+        }
+
+      ]
+    },
+
+    {
+      "actType": "n_singleStaticTumble",
+      "defaultPlanner": "SingleStaticActionPlanner",
+      "actRawNameList": [ "摔", "摔倒", "摔跤", "摔了一跤", "绊倒", "晕倒", "晕" ],
+      "SplitConditionList": [
+        {
+          "condition": "StrContains(moveState.subCurPointFlag,\"sky\")",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "Tumble",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "short"
+            },
+            {
+              "subAnimation": "static",
+              "subAtomMove": "MoveToRegion",
+              "subPointFlag": "defaultPoint",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "2",
+              "duration": "long"
+            }
+          ]
+
+        },
+        {
+          "condition": "!StrContains(moveState.subCurPointFlag,\"sky\")",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "Tumble",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "short"
+            }
+
+          ]
+
+        }
+
+      ]
+    },
+
+    {
+      "actType": "n_singleStaticDisappear",
+      "defaultPlanner": "SingleStaticActionPlanner",
+      "actRawNameList": [ "不见", "消失", "丢" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "Disappear",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "short"
+            }
+
+          ]
+
+        }
+
+
+      ]
+    },
+    {
+      "actType": "n_singleStaticTumbleRecover",
+      "defaultPlanner": "SingleStaticActionPlanner",
+      "actRawNameList": [ "站起来", "起身", "爬起来", "站起", "站了起来", "爬了起来" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "TumbleRecover",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "short"
+            }
+
+          ]
+
+        }
+      ]
+    },
+
+    {
+      "actType": "n_singleMoveLeave",
+      "defaultPlanner": "SingleMoveActionPlanner",
+      "actRawNameList": [ "离开", "走了", "飞走", "游走", "跑走", "跑了", "飞走了", "游走了", "滑走", "逃", "逃跑", "逃走", "吓跑", "吓走" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "MoveToRegion",
+              "subPointFlag": "exitPoint",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "long"
+            },
+            {
+              "subAnimation": "",
+              "subAtomMove": "Disappear",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "2",
+              "duration": "short"
+            }
+
+          ]
+
+        }
+      ]
+    },
+
+    {
+      "actType": "n_coupleTakeTo",
+      "defaultPlanner": "CoupleMoveActionPlanner",
+      "actRawNameList": [ "放到", "拿到", "放在" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "MoveToRegion",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "long"
+            }
+
+          ]
+
+        }
+      ]
+    },
+
+    {
+      "actType": "n_singleMoveWander",
+      "defaultPlanner": "SingleMoveActionPlanner",
+      "actRawNameList": [ "寻找", "找", "查找", "找来找去", "玩", "玩儿", "玩耍", "走来走去", "跑来跑去", "飞来飞去", "游来游去", "晃来晃去", "走过来走过去", "跑过来跑过去", "飞过来飞过去", "游过来游过去", "滑来滑去", "滑过来滑过去" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "MoveForward",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "long"
+            },
+            {
+              "subAnimation": "",
+              "subAtomMove": "TurnBack",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "2",
+              "duration": "short"
+            },
+            {
+              "subAnimation": "",
+              "subAtomMove": "MoveForward",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "3",
+              "duration": "long"
+            }
+
+          ]
+
+        }
+      ]
+    },
+
+    {
+      "actType": "n_singleMoveFly",
+      "defaultPlanner": "SingleMoveActionPlanner",
+      "actRawNameList": [ "飞", "飞到", "飞行", "飞上", "飞去", "飞过去", "飞了过去", "停到", "停在", "飞了起来", "飞起来", "飘" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "Fly",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "long"
+            }
+
+          ]
+
+        }
+      ]
+    },
+    {
+      "actType": "n_singleMoveLand",
+      "defaultPlanner": "SingleMoveActionPlanner",
+      "actRawNameList": [ "降落", "到地上", "掉下", "回到地面", "落下", "到了地上", "到了地面", "掉了下来", "掉了下去", "落了下来", "落了下去" ],
+      "SplitConditionList": [
+        {
+          "condition": "",
+          "atomMoveList": [
+            {
+              "subAnimation": "",
+              "subAtomMove": "Land",
+              "subPointFlag": "",
+              "objAnimation": "",
+              "objAtomMove": "",
+              "objPointFlag": "",
+              "seqNum": "1",
+              "duration": "long"
+            }
+
+          ]
+
+        }
+      ]
+    }
+
+
+  ]

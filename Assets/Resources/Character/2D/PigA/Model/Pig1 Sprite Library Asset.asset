@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Pig1 Sprite Library Asset
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: All
+    m_Hash: 55916349
+    m_CategoryList:
+    - m_Name: Body
+      m_Hash: 2073732236
+      m_Sprite: {fileID: 21300000, guid: e36cd3b9744dc244ba7d20af71053187, type: 3}
+    - m_Name: Cheek
+      m_Hash: -1424677743
+      m_Sprite: {fileID: 21300000, guid: 65b7c48418071dd46b974b7edbab6858, type: 3}
+    - m_Name: Ear1
+      m_Hash: -2008232630
+      m_Sprite: {fileID: 21300000, guid: cc590b8b430778b4d9cbe6923c5f8d72, type: 3}
+    - m_Name: Ear2
+      m_Hash: 289774832
+      m_Sprite: {fileID: 21300000, guid: 314944e2736ae214b8a352c71a2a57c8, type: 3}
+    - m_Name: Eye
+      m_Hash: 1245036881
+      m_Sprite: {fileID: 21300000, guid: 4a58ad837bf817e4f95a3f798d350ee7, type: 3}
+    - m_Name: Head
+      m_Hash: 130111906
+      m_Sprite: {fileID: 21300000, guid: 563208994d884084f88ea0d1b0220664, type: 3}
+    - m_Name: Leg1
+      m_Hash: -973550584
+      m_Sprite: {fileID: 21300000, guid: 2918886d7fd3438479daa7e6922c93a2, type: 3}
+    - m_Name: Leg2
+      m_Hash: 1559338418
+      m_Sprite: {fileID: 21300000, guid: ef7daad031c275d48ae06d127f46b5b9, type: 3}
+    - m_Name: Leg3
+      m_Hash: 737586468
+      m_Sprite: {fileID: 21300000, guid: 20dacc33cdab7044382a1d6c28ac2857, type: 3}
+    - m_Name: Nose
+      m_Hash: 550421485
+      m_Sprite: {fileID: 21300000, guid: 9600c8568952dbb409cdd56999324f50, type: 3}
+    - m_Name: Nostrils
+      m_Hash: 593204815
+      m_Sprite: {fileID: 21300000, guid: ce3603f35bcd9cf4aa0a38b8b10a9848, type: 3}
+    - m_Name: Tail
+      m_Hash: -603645085
+      m_Sprite: {fileID: 21300000, guid: 41d67afb1ed370740913d877f3e75b42, type: 3}

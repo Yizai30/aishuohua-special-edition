@@ -1,0 +1,8 @@
+fastapi==0.78.0
+python-multipart==0.0.5
+uvicorn==0.18.2
+pymongo==4.1.1
+gunicorn==20.1.0
+fastapi_redis_cache==0.2.5
+sqlalchemy==1.4.25
+hanlp==2.1.0b44

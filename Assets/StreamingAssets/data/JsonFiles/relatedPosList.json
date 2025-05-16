@@ -1,0 +1,424 @@
+[
+    {
+      "valName": "cuteTurtle3D",
+      "upOffset": [ 0, 0.11, 0 ],
+      "headOffset": [ -0.076, 0.14, 0 ],
+      "bottomOffset": [ 0, 0, 0 ]
+    },
+    {
+      "valName": "Eagle3D",
+      "upOffset": [ 0, 1, 0 ],
+      "headOffset": [ 0, 1, 0 ],
+      "bottomOffset": [ 0, 0, 0 ]
+    },
+    {
+      "valName": "Alpaca",
+      "upOffset": [ -2.2, 2.05, 0 ],
+      "headOffset": [ -2.2, 2.05, 0 ],
+      "bottomOffset": [ 0, 0.15, 0 ]
+    },
+    {
+      "valName": "Alpaca baby",
+      "upOffset": [ -0.17, 1.1, 0 ],
+      "headOffset": [ -0.17, 1.1, 0 ],
+      "bottomOffset": [ 0, 0.1, 0 ]
+    },
+    {
+      "valName": "boy",
+      "upOffset": [ 0, 1.8, 0 ],
+      "headOffset": [ 0, 1.8, 0 ],
+      "bottomOffset": [ 0, 0.3, 0 ]
+    },
+    {
+      "valName": "Bull",
+      "upOffset": [ 0, 1.2, 0 ],
+      "headOffset": [ -0.25, 1.2, 0 ],
+      "bottomOffset": [ 0.1, 0.1, 0 ]
+    },
+    {
+      "valName": "Bull baby",
+      "upOffset": [ 0, 0.585, 0 ],
+      "headOffset": [ -0.2, 0.875, 0 ],
+      "bottomOffset": [ 0, 0.125, 0 ]
+    },
+    {
+      "valName": "Chicken baby",
+      "upOffset": [ 0, 0.56, 0 ],
+      "headOffset": [ 0, 0.56, 0 ],
+      "bottomOffset": [ 0, 0, 0 ]
+    },
+    {
+      "valName": "Chicken1",
+      "upOffset": [ -0.8, 1.4, 0 ],
+      "headOffset": [ -0.8, 1.4, 0 ],
+      "bottomOffset": [ 0, 0.2, 0 ]
+    },
+    {
+      "valName": "Chicken2",
+      "upOffset": [ -0.8, 1.4, 0 ],
+      "headOffset": [ -0.8, 1.4, 0 ],
+      "bottomOffset": [ 0, 0.2, 0 ]
+    },
+    {
+      "valName": "Cow",
+      "upOffset": [ 0, 1.2, 0 ],
+      "headOffset": [ -0.25, 1.2, 0 ],
+      "bottomOffset": [ 0.1, 0.1, 0 ]
+    },
+    {
+      "valName": "Cow baby",
+      "upOffset": [ 0, 0.585, 0 ],
+      "headOffset": [ -0.2, 0.875, 0 ],
+      "bottomOffset": [ 0, 0.125, 0 ]
+    },
+    {
+      "valName": "Duck baby",
+      "upOffset": [ 0, 0.56, 0 ],
+      "headOffset": [ 0, 0.56, 0 ],
+      "bottomOffset": [ 0, 0, 0 ]
+    },
+    {
+      "valName": "Duck1",
+      "upOffset": [ -0.09, 1.2, 0 ],
+      "headOffset": [ -0.09, 1.2, 0 ],
+      "bottomOffset": [ 0, 0.25, 0 ]
+    },
+    {
+      "valName": "Duck2",
+      "upOffset": [ -0.09, 1.2, 0 ],
+      "headOffset": [ -0.09, 1.2, 0 ],
+      "bottomOffset": [ 0, 0.25, 0 ]
+    },
+    {
+      "valName": "Goat",
+      "upOffset": [ 0, 1.1, 0 ],
+      "headOffset": [ -0.21, 1.1, 0 ],
+      "bottomOffset": [ 0.1, 0.14, 0 ]
+    },
+    {
+      "valName": "Goat baby",
+      "upOffset": [ 0, 0.585, 0 ],
+      "headOffset": [ -0.2, 0.875, 0 ],
+      "bottomOffset": [ 0, 0.125, 0 ]
+    },
+    {
+      "valName": "oldman",
+      "upOffset": [ 0, 1.6, 0 ],
+      "headOffset": [ 0, 1.6, 0 ],
+      "bottomOffset": [ 0, 0.2, 0 ]
+    },
+    {
+      "valName": "Pig baby1",
+      "upOffset": [ 0, 0.63, 0 ],
+      "headOffset": [ -0.18, 0.63, 0 ],
+      "bottomOffset": [ 0, 0.07, 0 ]
+    },
+    {
+      "valName": "Pig baby2",
+      "upOffset": [ 0, 0.63, 0 ],
+      "headOffset": [ -0.18, 0.63, 0 ],
+      "bottomOffset": [ 0, 0.07, 0 ]
+    },
+    {
+      "valName": "Pig baby3",
+      "upOffset": [ 0, 0.63, 0 ],
+      "headOffset": [ -0.18, 0.63, 0 ],
+      "bottomOffset": [ 0, 0.07, 0 ]
+    },
+    {
+      "valName": "Pig1",
+      "upOffset": [ 0, 1.07, 0 ],
+      "headOffset": [ -0.24, 1.15, 0 ],
+      "bottomOffset": [ 0.1, 0.2, 0 ]
+    },
+    {
+      "valName": "Pig2",
+      "upOffset": [ 0, 1.07, 0 ],
+      "headOffset": [ -0.24, 1.15, 0 ],
+      "bottomOffset": [ 0.1, 0.2, 0 ]
+    },
+    {
+      "valName": "Pig3",
+      "upOffset": [ 0, 1.07, 0 ],
+      "headOffset": [ -0.24, 1.15, 0 ],
+      "bottomOffset": [ 0.1, 0.2, 0 ]
+    },
+    {
+      "valName": "rabbit",
+      "upOffset": [ -0.12, 1.05, 0 ],
+      "headOffset": [ -0.12, 1.05, 0 ],
+      "bottomOffset": [ 0.1, 0.15, 0 ]
+    },
+    {
+      "valName": "Sheep",
+      "upOffset": [ 0, 1.14, 0 ],
+      "headOffset": [ -0.2, 1.14, 0 ],
+      "bottomOffset": [ 0.1, 0.14, 0 ]
+    },
+    {
+      "valName": "Sheep baby",
+      "upOffset": [ 0, 0.585, 0 ],
+      "headOffset": [ -0.2, 0.875, 0 ],
+      "bottomOffset": [ 0, 0.125, 0 ]
+    },
+    {
+      "valName": "Arowana3D",
+      "upOffset": [ 0, 1.2, 0 ],
+      "headOffset": [ 0, 1.2, 0 ],
+      "bottomOffset": [ 0, 0.4, 0 ]
+    },
+    {
+      "valName": "Bumble3D",
+      "upOffset": [ 0, 1.2, 0 ],
+      "headOffset": [ -0.1, 1.2, 0 ],
+      "bottomOffset": [ 0, 0.4, 0 ]
+    },
+    {
+      "valName": "Butterfly3D",
+      "upOffset": [ 0, 0.7, 0 ],
+      "headOffset": [ 0, 0.7, 0 ],
+      "bottomOffset": [ 0, 0.2, 0 ]
+    },
+    {
+      "valName": "Goose3D",
+      "upOffset": [ 0.5, 1.6, 0 ],
+      "headOffset": [ -0.6, 2.8, 0 ],
+      "bottomOffset": [ 0, 0.4, 0 ]
+    },
+    {
+      "valName": "Parrot3D",
+      "upOffset": [ -0.15, 1.82, 0 ],
+      "headOffset": [ -0.15, 1.82, 0 ],
+      "bottomOffset": [ 0, 0.22, 0 ]
+    },
+    {
+      "valName": "Penguin3D",
+      "upOffset": [ 0, 1.75, 0 ],
+      "headOffset": [ 0, 1.75, 0 ],
+      "bottomOffset": [ 0, 0.2, 0 ]
+    },
+    {
+      "valName": "Swallow3D",
+      "upOffset": [ 0, 0.65, 0 ],
+      "headOffset": [ 0, 0.65, 0 ],
+      "bottomOffset": [ 0, 0, 0 ]
+    },
+    {
+      "valName": "cuteBear3D",
+      "upOffset": [ 0, 0.185, 0 ],
+      "headOffset": [ -0.16, 0.185, 0 ],
+      "bottomOffset": [ 0, 0, 0 ]
+    },
+    {
+      "valName": "cuteChipmunk3D",
+      "upOffset": [ -0.04, 0.090, 0 ],
+      "headOffset": [ -0.04, 0.090, 0 ],
+      "bottomOffset": [ 0, 0.005, 0 ]
+    },
+    {
+      "valName": "cuteDeer3D",
+      "upOffset": [ 0, 0.125, 0 ],
+      "headOffset": [ -0.09, 0.1825, 0 ],
+      "bottomOffset": [ 0, 0.055, 0 ]
+    },
+    {
+      "valName": "cuteDog3D",
+      "upOffset": [ 0, 0.125, 0 ],
+      "headOffset": [ -0.05, 0.19, 0 ],
+      "bottomOffset": [ 0, 0.045, 0 ]
+    },
+    {
+      "valName": "cuteCat3D",
+      "upOffset": [ -0.025, 0.22, 0 ],
+      "headOffset": [ -0.025, 0.22, 0 ],
+      "bottomOffset": [ 0, 0.03, 0 ]
+    },
+    {
+      "valName": "cuteElephant3D",
+      "upOffset": [ 0, 0.205, 0 ],
+      "headOffset": [ -0.14, 0.205, 0 ],
+      "bottomOffset": [ 0, 0, 0 ]
+    },
+    {
+      "valName": "cuteFlamingo3D",
+      "upOffset": [ 0, 0.26, 0 ],
+      "headOffset": [ -0.1, 0.38, 0 ],
+      "bottomOffset": [ 0, 0.12, 0 ]
+    },
+    {
+      "valName": "cuteFox3D",
+      "upOffset": [ 0, 0.112, 0 ],
+      "headOffset": [ -0.09, 0.175, 0 ],
+      "bottomOffset": [ 0, 0.028, 0 ]
+    },
+    {
+      "valName": "cuteCat3D",
+      "upOffset": [ 0, 0.112, 0 ],
+      "headOffset": [ -0.09, 0.175, 0 ],
+      "bottomOffset": [ 0, 0.028, 0 ]
+    },
+    {
+      "valName": "cuteGiraffe3D",
+      "upOffset": [ 0, 0.12, 0 ],
+      "headOffset": [ -0.07, 0.225, 0 ],
+      "bottomOffset": [ 0, 0.06, 0 ]
+    },
+    {
+      "valName": "cuteHorse3D",
+      "upOffset": [ 0, 0.125, 0 ],
+      "headOffset": [ -0.15, 0.1925, 0 ],
+      "bottomOffset": [ 0, 0.055, 0 ]
+    },
+    {
+      "valName": "cuteLion3D",
+      "upOffset": [ 0, 0.1065, 0 ],
+      "headOffset": [ -0.09, 0.205, 0 ],
+      "bottomOffset": [ 0, 0.0335, 0 ]
+    },
+    {
+      "valName": "cuteMonkey3D",
+      "upOffset": [ -0.15, 0.23, 0 ],
+      "headOffset": [ -0.15, 0.23, 0 ],
+      "bottomOffset": [ 0, 0.038, 0 ]
+    },
+    {
+      "valName": "cutePeacock3D",
+      "upOffset": [ 0, 0.615, 0 ],
+      "headOffset": [ -0.11, 0.975, 0 ],
+      "bottomOffset": [ 0, 0.245, 0 ]
+    },
+    {
+      "valName": "cuteTiger3D",
+      "upOffset": [ 0, 0.1095, 0 ],
+      "headOffset": [ -0.1, 0.18, 0 ],
+      "bottomOffset": [ 0, 0.0245, 0 ]
+    },
+    {
+      "valName": "Apple",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Banana",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Cake",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Carrot",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Cherry",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Corn",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Cucumber",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Eggplant",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Flower",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Grapes",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Lemon",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Mango",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Onion",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Orange",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Pear",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Pepper",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Pineapple",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Pitahaya",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Tangerine",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Tomato",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    },
+    {
+      "valName": "Watermelon",
+      "upOffset": [ 0, -1.28, 0 ],
+      "headOffset": [ 0, -1.28, 0 ],
+      "bottomOffset": [ 0, -1.28, 0 ]
+    }
+  ]
+
+

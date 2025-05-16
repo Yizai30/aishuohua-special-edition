@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Pig baby3 Sprite Library Asset
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: All
+    m_Hash: 55916349
+    m_CategoryList:
+    - m_Name: Body
+      m_Hash: 2073732236
+      m_Sprite: {fileID: 21300000, guid: f0857691ade17de45a8e51d4067ba177, type: 3}
+    - m_Name: Cheek
+      m_Hash: -1424677743
+      m_Sprite: {fileID: 21300000, guid: c333b3fde7c75404fbfa66c42d36ea8b, type: 3}
+    - m_Name: Ear1
+      m_Hash: -2008232630
+      m_Sprite: {fileID: 21300000, guid: 571f0d5c06ac86e4abac9e3e1836a941, type: 3}
+    - m_Name: Ear2
+      m_Hash: 289774832
+      m_Sprite: {fileID: 21300000, guid: 4fc59124c4937504b87b856a200daed1, type: 3}
+    - m_Name: Eye
+      m_Hash: 1245036881
+      m_Sprite: {fileID: 21300000, guid: 0cf8513799425b04595483b16d89c8dd, type: 3}
+    - m_Name: Head
+      m_Hash: 130111906
+      m_Sprite: {fileID: 21300000, guid: 01d1bd3c8b5337d41b2b50f6bf32e6bc, type: 3}
+    - m_Name: Leg1
+      m_Hash: -973550584
+      m_Sprite: {fileID: 21300000, guid: 878b71b7d3f34a041aef5ee619c8f4f4, type: 3}
+    - m_Name: Leg2
+      m_Hash: 1559338418
+      m_Sprite: {fileID: 21300000, guid: 0cf697606e784e04fbdcd95a480b128e, type: 3}
+    - m_Name: Leg3
+      m_Hash: 737586468
+      m_Sprite: {fileID: 21300000, guid: 0179319cefa75ac4ea11fbe3c707fdd8, type: 3}
+    - m_Name: Nose
+      m_Hash: 550421485
+      m_Sprite: {fileID: 21300000, guid: 8a7e1e8fc74bbc845bd50896a51000c2, type: 3}
+    - m_Name: Nostrils
+      m_Hash: 593204815
+      m_Sprite: {fileID: 21300000, guid: c75795511cbb8a44b8e3071a92b00600, type: 3}
+    - m_Name: Tail
+      m_Hash: -603645085
+      m_Sprite: {fileID: 21300000, guid: 47e03ed433ef8144fb184d5e13b17545, type: 3}
+    - m_Name: Hair
+      m_Hash: 1019596327
+      m_Sprite: {fileID: 21300000, guid: 17622d087db7cfd41914aef0bb54da94, type: 3}

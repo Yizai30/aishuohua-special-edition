@@ -1,0 +1,25 @@
+{
+  "keyFrames": [
+    {
+      "action": "4",
+      "type": "0",
+      "name": "2D/pond",
+      "goname": "",
+      "timestamp": "0",
+      "weather": "Hot",
+      "startpos": [ 0.0, 0.0, 0.0 ],
+      "endpos": [ 0.0, 0.0, 0.0 ],
+      "startrotation": [ "0", "0", "0" ],
+      "endrotation": [ "0", "0", "0" ],
+      "startscale": [ "1", "1", "1" ],
+      "endscale": [ "1", "1", "1" ],
+      "duration": "0.10000000000000001",
+      "content": "",
+      "loop": "0",
+      "partNameList": [],
+      "partPreList": []
+    }
+    
+  ]
+
+}

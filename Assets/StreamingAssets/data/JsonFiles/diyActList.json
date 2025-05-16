@@ -1,0 +1,157 @@
+[
+  {
+    "level": "loose",
+    "actType": "n_coupleStaticSee",
+    "duration": "short",
+    "defaultPlanner": "CoupleStaticActionPlanner",
+    "actRawNameList": [ "看", "看到", "盯着", "盯", "注视", "观察", "望着", "望", "看见", "转向", "碰到", "面对", "遇到", "遇见", "见到", "看着", "发现", "瞧见" ]
+  },
+  {
+    "level": "loose",
+    "actType": "n_coupleStaticFaceToFace",
+    "duration": "short",
+    "defaultPlanner": "CoupleStaticActionPlanner",
+    "actRawNameList": [ "迎面" ]
+  },
+  {
+    "level": "loose",
+    "actType": "n_coupleStaticSpeak",
+    "duration": "long",
+    "defaultPlanner": "CoupleStaticActionPlanner",
+    "actRawNameList": [ "说", "问道", "问", "说话", "喊", "喊道", "邀请", "请", "邀请", "打招呼", "问好", "交谈", "聊天", "交流" ]
+  },
+  {
+    "level": "loose",
+    "actType": "n_coupleStaticEat",
+    "duration": "long",
+    "defaultPlanner": "CoupleStaticActionPlanner",
+    "actRawNameList": [ "吃掉", "吃", "吃了" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_coupleStaticDrink",
+    "duration": "long",
+    "defaultPlanner": "CoupleStaticActionPlanner",
+    "actRawNameList": [ "喝掉", "喝", "喝了" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_coupleStaticOpenBook",
+    "duration": "long",
+    "defaultPlanner": "CoupleStaticActionPlanner",
+    "actRawNameList": [ "翻开", "打开" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_coupleStaticCloseBook",
+    "duration": "long",
+    "defaultPlanner": "CoupleStaticActionPlanner",
+    "actRawNameList": [ "合上", "关上" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_coupleStaticBlowCandle",
+    "duration": "long",
+    "defaultPlanner": "CoupleStaticActionPlanner",
+    "actRawNameList": [ "吹灭", "吹蜡烛" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_singleStaticTurnback",
+    "duration": "short",
+    "defaultPlanner": "SingleStaticActionPlanner",
+    "actRawNameList": [ "转头", "调转", "转身", "转过头", "掉头" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_singleStaticTumble",
+    "duration": "long",
+    "defaultPlanner": "SingleStaticActionPlanner",
+    "actRawNameList": [ "摔", "摔倒", "摔跤", "摔了一跤", "绊倒", "晕倒", "晕" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_singleStaticTumbleRecover",
+    "duration": "long",
+    "defaultPlanner": "SingleStaticActionPlanner",
+    "actRawNameList": [ "站起来", "起身", "爬起来", "站起", "站了起来", "爬了起来" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_singleMoveLeave",
+    "duration": "long",
+    "defaultPlanner": "SingleMoveActionPlanner",
+    "actRawNameList": [ "离开", "走了", "飞走", "游走", "跑走", "跑了", "飞走了", "游走了", "滑走", "逃", "逃跑", "逃走", "吓跑", "吓走" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_coupleMoveEscape",
+    "duration": "long",
+    "defaultPlanner": "CoupleMoveActionPlanner",
+    "actRawNameList": [ "追", "追赶", "追着", "追逐", "扑", "扑向", "扑去" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_singleMoveWander",
+    "duration": "long",
+    "defaultPlanner": "SingleMoveActionPlanner",
+    "actRawNameList": [ "寻找", "找", "查找", "找来找去", "玩", "玩儿", "玩耍", "走来走去", "跑来跑去", "飞来飞去", "游来游去", "晃来晃去", "走过来走过去", "跑过来跑过去", "飞过来飞过去", "游过来游过去", "滑来滑去", "滑过来滑过去" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_singleStaticDisappear",
+    "duration": "short",
+    "defaultPlanner": "SingleStaticActionPlanner",
+    "actRawNameList": [ "不见", "消失", "丢" ]
+  },
+  {
+    "level": "loose",
+    "actType": "n_singleMoveFly",
+    "duration": "long",
+    "defaultPlanner": "SingleMoveActionPlanner",
+    "actRawNameList": [ "飞", "飞到", "飞行", "飞上", "飞去", "飞过去", "飞了过去", "停到", "停在", "飞了起来", "飞起来", "飘" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_singleMoveLand",
+    "duration": "long",
+    "defaultPlanner": "SingleMoveActionPlanner",
+    "actRawNameList": [ "降落", "到地上", "掉下", "回到地面", "落下", "到了地上", "到了地面", "掉了下来", "掉了下去", "落了下来", "落了下去" ]
+  },
+  {
+    "level": "loose",
+    "actType": "n_singleMoveCome",
+    "duration": "long",
+    "defaultPlanner": "SingleMoveActionPlanner",
+    "actRawNameList": [ "回到", "走", "过来", "来到", "来", "到", "走到", "跑到", "走进", "进来", "走来", "跑进", "跳到", "跑过来", "跑过去", "跑了过去", "跑去", "跑来", "走了进来", "跑了过来", "走了过来", "走了过去", "走过来", "走过去", "飞了过来", "飞到", "飞来", "飞过来", "飞进", "飞进来", "飞了进来", "游了过来", "游过来", "游进来", "游了进来", "窜出来", "窜了出来", "冲进来", "冲了进来", "冲进", "窜过来", "窜了过来", "冲过来", "冲了过来", "跳进", "跳了进来", "跳过来", "跳了过来" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_singleCrossBridge",
+    "duration": "long",
+    "defaultPlanner": "SingleMoveActionPlanner",
+    "actRawNameList": [ "过桥", "过了桥", "到对岸", "去对岸", "到了对岸", "去了对岸", "过河", "过了河" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_singleMoveToRegion",
+    "duration": "long",
+    "defaultPlanner": "SingleMoveActionPlanner",
+    "actRawNameList": [ "称体重", "测量体重", "测体重", "量体重", "测量身高", "测身高", "量身高", "看病", "看医生", "看书", "借书", "读书", "报案", "报警", "落", "落到", "落在", "掉", "掉到", "掉在", "坐", "坐到", "坐在", "坐上" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_singleMoveToScene",
+    "duration": "long",
+    "defaultPlanner": "CoupleMoveActionPlanner",
+    "actRawNameList": [ "放到", "拿到", "放在" ]
+  },
+  {
+    "level": "strict",
+    "actType": "n_coupleTakeTo",
+    "duration": "long",
+    "defaultPlanner": "CoupleMoveActionPlanner",
+    "actRawNameList": [ "放到", "拿到", "放在" ]
+  }
+
+]

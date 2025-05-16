@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d72e888d5622c964c8d0de2a8add392f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stuff: {instanceID: 0}
+  - human: {instanceID: 0}
+  - flying: {instanceID: 0}
+  - creeping: {instanceID: 0}
+  - suitHuman: {instanceID: 0}
+  - dialog: {instanceID: 0}
+  - audioContainer: {instanceID: 0}
+  - bkgmat: {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+  - subtitle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

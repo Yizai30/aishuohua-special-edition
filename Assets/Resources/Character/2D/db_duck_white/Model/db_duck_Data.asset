@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7978b11ffe7ffa84da54ab2037f64377, type: 3}
+  m_Name: db_duck_Data
+  m_EditorClassIdentifier: 
+  dataName: db_duck
+  dragonBonesJSON: {fileID: 4900000, guid: 807094539b23d584e9f465ebd49bfb5c, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 3d5eadc63f4f1094eb1a2ecb8bf08e1d, type: 3}
+    texture: {fileID: 2800000, guid: 54a7e2735ea6030429ea0b4e38d395f1, type: 3}
+    material: {fileID: 2100000, guid: 0f7c1ae529bd6484e9587ca532c2db7f, type: 2}
+    uiMaterial: {fileID: 0}

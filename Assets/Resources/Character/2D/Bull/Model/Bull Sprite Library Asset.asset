@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Bull Sprite Library Asset
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: All
+    m_Hash: 55916349
+    m_CategoryList:
+    - m_Name: Body
+      m_Hash: 2073732236
+      m_Sprite: {fileID: 21300000, guid: 81dd07d9233af4042969ef8d4d15b4c3, type: 3}
+    - m_Name: Decor
+      m_Hash: 1901468836
+      m_Sprite: {fileID: 21300000, guid: 265cad87b10b28c4ab1326a7711004f3, type: 3}
+    - m_Name: Ear1
+      m_Hash: -2008232630
+      m_Sprite: {fileID: 21300000, guid: e85615fd77af26e48b0f420111b375ce, type: 3}
+    - m_Name: Ear2
+      m_Hash: 289774832
+      m_Sprite: {fileID: 21300000, guid: 7009ee18bf5034447888435aaaa9eee4, type: 3}
+    - m_Name: Eye
+      m_Hash: 1245036881
+      m_Sprite: {fileID: 21300000, guid: ecc4f38414bacd644b6cddd401da685d, type: 3}
+    - m_Name: Head
+      m_Hash: 130111906
+      m_Sprite: {fileID: 21300000, guid: 7116c20e90b58614cb873e1b6a9272e7, type: 3}
+    - m_Name: Head2
+      m_Hash: 571129232
+      m_Sprite: {fileID: 21300000, guid: 8b8326829abac024c8042ae95919386c, type: 3}
+    - m_Name: Horn1
+      m_Hash: 808581613
+      m_Sprite: {fileID: 21300000, guid: d96a767ec92a00c4a9484d0a0af79ed5, type: 3}
+    - m_Name: Horn2
+      m_Hash: -1455904681
+      m_Sprite: {fileID: 21300000, guid: 23226ef2737db44488f544b9c03b1ac6, type: 3}
+    - m_Name: Leg1
+      m_Hash: -973550584
+      m_Sprite: {fileID: 21300000, guid: e3b5a77e262e19e45a8e6c4f48d749d2, type: 3}
+    - m_Name: Leg2
+      m_Hash: 1559338418
+      m_Sprite: {fileID: 21300000, guid: e2c8bd3f344da9a48a6471e6f7b66a09, type: 3}
+    - m_Name: Leg3
+      m_Hash: 737586468
+      m_Sprite: {fileID: 21300000, guid: 7e8d9c3a32c4ba84bbc3dfd455680f8c, type: 3}
+    - m_Name: Nostrils
+      m_Hash: 593204815
+      m_Sprite: {fileID: 21300000, guid: f9c8abccfec36f84b9dd075942755bd5, type: 3}
+    - m_Name: Tail
+      m_Hash: -603645085
+      m_Sprite: {fileID: 21300000, guid: 1ff815f6e64a89041a6103ebb7e9847a, type: 3}

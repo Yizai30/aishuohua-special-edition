@@ -1,0 +1,53 @@
+[
+  {
+  "mapName":"ActionMap",
+    "contentList": []  
+  },
+  {
+    "mapName": "ObjectMap",
+    "contentList": [
+      {
+        "keyNameList": [
+          [
+            "莎莎"
+          ]
+        ],
+        "valName": "白鸭"
+      },
+      {
+        "keyNameList": [
+          [
+            "噗噗"
+          ]
+        ],
+        "valName": "黑鸭"
+      },
+      {
+        "keyNameList": [
+          [
+            "噜噜"
+          ]
+        ],
+        "valName": "黄鸭"
+      }
+
+
+    ]
+  },
+  {
+    "mapName": "BkgMap",
+    "contentList": [
+      {
+        "keyNameList": [
+          [ "池塘", "pond" ]
+        ],
+        "valName": "池塘"
+      }
+      
+
+
+
+    ]
+  }
+
+  ]

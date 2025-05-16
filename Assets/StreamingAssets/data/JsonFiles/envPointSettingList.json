@@ -1,0 +1,45 @@
+[
+  {
+    "envPropList": [ "Sun" ],
+    "pointNameList": [ "env_sunPoint" ],
+    "defaultBackground": [],
+    "appear": "1"
+
+  },
+
+  {
+    "envPropList": [ "Balloon" ],
+    "pointNameList": [ "env_skyPoint" ],
+    "defaultBackground": [],
+    "appear": "1"
+
+  },
+  {
+    "envPropList": [ "Balloons" ],
+    "pointNameList": [ "env_skyPoint" ],
+    "defaultBackground": [],
+    "appear": "1"
+
+  },
+  {
+    "envPropList": [ "Vat" ],
+    "pointNameList": [ "env_vatPoint" ],
+    "defaultBackgroundList": [ "magicHouse" ],
+    "appear": "1"
+
+  },
+  {
+    "envPropList": [ "Boat" ],
+    "pointNameList": [ "env_BoatPoint" ],
+    "defaultBackgroundList": [ "riverBank" ],
+    "appear": "1"
+
+  },
+  {
+    "envPropList": [ "Fence" ],
+    "pointNameList": [ "env_fencePoint" ],
+    "defaultBackgroundList": [ "pond" ],
+    "appear": "0"
+
+  }
+]
