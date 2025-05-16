@@ -15,8 +15,8 @@ import time
 
 logging.basicConfig(level=logging.ERROR, stream=sys.stdout)
 
-secret_id = 'AKIDSo26wkQtLfr27IWceWP9h6LWWdgZK7sW'
-secret_key = 'b2fDcpppiQyOjvyxiDVZR8dwEQtDOcq5'
+secret_id = 'None'
+secret_key = 'None'
 region = 'ap-shanghai'
 token = None
 scheme = 'https'
